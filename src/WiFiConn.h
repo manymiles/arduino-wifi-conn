@@ -1,0 +1,1 @@
+bool setupWiFi(const char *ssid, const char *pw);
